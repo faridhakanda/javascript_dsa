@@ -1,3 +1,4 @@
+// find maximum number of the given array;
 function find_max(A) {
     let i, max = 0;
     for (i = 0; i < A.length; i++) {
