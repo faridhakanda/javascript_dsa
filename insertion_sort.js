@@ -1,3 +1,4 @@
+// insertion sort implementation using javascript
 function insertion_sort(A) {
     let i, j, t;
     for (i = 0; i < A.length; i++) {
