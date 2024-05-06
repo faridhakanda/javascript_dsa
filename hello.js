@@ -1,1 +1,1 @@
-console.log("Hello, Javascript github repo!");
+console.log("Hello, Javascript DSA repo github!");
