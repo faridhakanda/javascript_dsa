@@ -1,5 +1,6 @@
 // Queue implementation using javascript
-// class method
+// class method 
+// manually
 const MAX = 6;
 class Queue {
     constructor() {
